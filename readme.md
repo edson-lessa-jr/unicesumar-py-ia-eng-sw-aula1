@@ -31,7 +31,6 @@ Esta seção guiará você na configuração do ambiente de desenvolvimento para
 * **ex05_visualizacao_matplotlib/**: Exemplos de visualização de dados com Matplotlib.
 * **ex06_visualizacao_seaborn/**: Exemplos de visualização de dados com Seaborn.
 * **main.py**: Arquivo principal para execução de exemplos específicos.
-* **check_version.py**: Script para verificar as versões das bibliotecas instaladas.
 
 ## Como Usar
 
