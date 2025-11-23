@@ -37,8 +37,3 @@ Esta seção guiará você na configuração do ambiente de desenvolvimento para
 
 Execute os scripts `.py` individualmente para ver os exemplos em ação.
 
-## Sobre o Autor
-
-**Edson Orivaldo Lessa Junior**
-
-Edson Orivaldo Lessa Junior é o autor do livro "Python e Inteligência Artificial no Contexto da Engenharia de Software".
